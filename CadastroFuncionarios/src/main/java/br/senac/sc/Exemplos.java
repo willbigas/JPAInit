@@ -191,7 +191,7 @@ public class Exemplos {
 		
 		// Funcionalidades do Java 8 (Stream API)
 //		departamentoSalvo.getFuncionarios().forEach(f -> System.out.println(f));
-		departamento.getFuncionarios().forEach(System::out::println);
+//		departamentoSalvo.getFuncionarios().forEach(System.out::println);
 		
 	}
 
